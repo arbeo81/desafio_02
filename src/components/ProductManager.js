@@ -65,6 +65,9 @@ export class ProductManager {
 
 }
 
+
+
+
 //const productManager = new ProductManager
 
 //productManager.addProduct('Escuadra', 'Escuadra para dibujo técnico', 123.45, 'https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png', 'COD1', 10)
@@ -83,3 +86,18 @@ export class ProductManager {
 //productManager.addProduct('Pincel', 'Pincel escolar', 56.78, 'https://cdn3.iconfinder.com/data/icons/education-209/64/paint-brush-painting-school-256.png', 'COD14', 140)
 
 
+//productManager.getProducts()
+
+//productManager.getProductsById(3)
+
+//productManager.deleteProducts(2)
+
+/*productManager.updateProducts({
+    "id": 2,
+		"title": "Calculadora",
+		"description": "Calculadora científica",
+		"price": 500.56,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+		"code": "COD2",
+		"stock": 20
+})*/
